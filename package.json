@@ -8,5 +8,10 @@
     "url": "https://github.com/madrobby/keymaster"
   },
   "main": "./keymaster.js",
-  "ender": "./ender.js"
+  "ender": "./ender.js",
+  "component": {
+    "scripts": {
+      "keymaster": "keymaster.js"
+    }
+  }
 }
